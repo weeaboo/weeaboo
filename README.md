@@ -4,6 +4,7 @@
 I'm a 27-year-old full-stack engineer based in the United States.
 
 - Co-created Skate Central, a top-earning experience with over 500K members, 500M+ visits, and 76k peak concurrent players
+- Clean The Library - 80,000 CCU
 - Full-time Lead Engineer at Sawhorse Interactive making kick ass brand activations.
     - Worked on brand activations and integrations for major partners like Lamborghini, Alo Yoga, Walmart, Roblox, Paris Hilton, and Karlie Kloss
 - Previously an intern at Roblox
